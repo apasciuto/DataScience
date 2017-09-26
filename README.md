@@ -69,7 +69,3 @@
 - Describe the use cases for different types of databases
 - Explain differences between relational databases and document-based databases
 - Write simple select queries to pull data from a database and use within Pandas
-### Moving Forward with your Data Science Career
-- Specify common models used within different industries
-- Identify the use cases for common models
-- Discuss next steps and additional resources for data science learning
