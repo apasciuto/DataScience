@@ -1,4 +1,4 @@
-# General Assembly: Data Science Immersive Curriculum
+# ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) General Assembly: Data Science Immersive Curriculum
 
 ## Unit 1: Research Design and Exploratory Data Analysis
 ### What is Data Science
