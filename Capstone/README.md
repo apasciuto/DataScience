@@ -9,8 +9,6 @@ In this project, I will be predicting the demographics of users based on their a
 
 The Data has been collected from TalkingData SDK integrated within mobile apps. TalkingData is China’s largest third-party mobile data platform and is integrated in more than 70% of the 500 million mobile devices active daily in China.
 
-*Full recognition and consent from individual user of these apps have been obtained, and appropriate measures have been taken to protect the privacy of these individuals.*
-
 ## One Day in China
 ![OSXterminal](images/map.gif)
 
