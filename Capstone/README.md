@@ -18,3 +18,7 @@ The Data has been collected from TalkingData SDK integrated within mobile apps. 
 
 ## Data Dictionary
 ![OSXterminal](images/dictionary.png)
+
+<video width="700" height="500" controls>
+  <source src="images/map.mp4" type="video/mp4">
+</video>
