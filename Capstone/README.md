@@ -11,6 +11,9 @@ The Data has been collected from TalkingData SDK integrated within mobile apps. 
 
 *Full recognition and consent from individual user of these apps have been obtained, and appropriate measures have been taken to protect the privacy of these individuals.*
 
+## One Day in China
+![OSXterminal](images/map.gif)
+
 # 2. Data Structure
 
 ## The Data
@@ -18,6 +21,3 @@ The Data has been collected from TalkingData SDK integrated within mobile apps. 
 
 ## Data Dictionary
 ![OSXterminal](images/dictionary.png)
-
-## One Day in China
-![OSXterminal](images/map.gif)
