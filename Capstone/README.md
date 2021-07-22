@@ -22,3 +22,5 @@ The Data has been collected from TalkingData SDK integrated within mobile apps. 
 <video width="700" height="500" controls>
   <source src="images/map.mov" type="video/mp4">
 </video>
+
+![OSXterminal](images/map.mov)
